@@ -6,7 +6,7 @@
 int analogdeger = A0; //AO analog pin toprak nem değerini ölçmek için atanır. 
 int motorpompapin = 13; // D7 nolu dijital pin(GPIO13) motor pini olarak atanır. 
 
-const char* ssid = "TurkTelekom_TP2950_2.4GHz";
+const char* ssid = "***";
 const char* password = "***";
 
 DHT dht(DHTpin, DHTTYPE); 
